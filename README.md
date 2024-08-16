@@ -2,14 +2,14 @@
 1. React.js
 2. Express
 3. MongoDb
-4. NodeJS
+4. Node.js
 5. Stripe
 6. TailwindCSS
 ### Features:
 - User can register as well as sign in
 - User can select from a range of food-items.
 - User can view the cart.
-- Secure payment through ** stripe ** gateway
+- Secure payment through **stripe** gateway
 - User can view their orders in the orders page
 - user also has Track Order facility.
 - website further has an admin site <https://food-delivery-admin-e274.onrender.com>
